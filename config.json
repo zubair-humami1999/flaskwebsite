@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "ZubairCode.com",
+    "sub_name": "heavens for the programer",
+    "title_name": "zubaircode.com-heavens for the programers",
+    "index_name": "PYTHON CODE THUNDER",
+    "no_of_posts": "2",
+    "gmail-user":"zubair1on@gmail.com",
+    "gmail-password":"humami1999",
+    "login_image":"login-bg.png",
+    "admin_user":"zubair.humami",
+    "admin_password": "humami1999",
+    "about_text": "A successful blog needs great content. If one is a blogger or a programmer .I myself syed zubair being a information technology student and a programming aspirant, one understands that he ,she has only a limited amount of knowledge. That is why one needs to follow other programming blogs and developers. By following and getting involved in other blogs, one increases his/ her own knowledge, creates new ideas for content for his/ her own blog.",
+    "upload_location": "C:\\Users\\msyed\\PycharmProjects\\flask website\\static"
+  }
+
+}
